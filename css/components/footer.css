@@ -1,0 +1,28 @@
+.footer {
+  text-align: center;
+  padding: 70px;
+  background-color: #212527;
+  display: block;
+}
+.footer a {
+  font-size: 30px;
+  color: #1EDD88;
+}
+.fab {
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+}
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+.footer p {
+  color: #6B6C6C;
+}
+.footer img {
+  height: 20px;
+}

@@ -1,0 +1,33 @@
+.Banner {
+  background-image: url("https://cariera.ejobs.ro/wp-content/uploads/2018/09/salariu-mecanic-auto-paylab.png");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  text-align: center;
+}
+.Banner h1 {
+  color: white;
+  opacity: 1;
+  text-shadow: 1px 1px 1px rgba(0,0,0,1);
+}
+.Banner p {
+  color: white;
+  font-size: 20px;
+  text-shadow: 1px 1px 1px rgba(0,0,0,1);
+  font-weight: 500;
+}
+.btn-banner {
+  display: inline-block;
+  background-color: #03460eb5;
+  color: white;
+  border: 1px solid #999999;
+  padding: 15px 25px;
+  border-radius: 80px;
+  font-weight: 600;
+  opacity: 1;
+}
+.btn-banner:hover {
+  opacity: 1;
+  text-decoration: none;
+  background-color: #46ca56b5;
+  font-weight: 800;
